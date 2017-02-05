@@ -1,0 +1,6 @@
+use_frameworks!
+target 'lc_syntax_highlight_Tests' do
+  pod 'lc_syntax_highlight', :path => '../'
+  
+  
+end
