@@ -1,0 +1,6 @@
+framework module lc_syntax_highlight {
+  umbrella header "lc_syntax_highlight-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - lc_syntax_highlight (0.1.0)
+
+DEPENDENCIES:
+  - lc_syntax_highlight (from `../`)
+
+EXTERNAL SOURCES:
+  lc_syntax_highlight:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  lc_syntax_highlight: aba806827d375f21b6aea409fb863f55651726a1
+
+PODFILE CHECKSUM: b29fcede1f17efef32f37776a373d574b98ea37c
+
+COCOAPODS: 1.1.1

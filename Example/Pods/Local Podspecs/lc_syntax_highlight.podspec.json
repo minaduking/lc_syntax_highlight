@@ -1,0 +1,22 @@
+{
+  "name": "lc_syntax_highlight",
+  "version": "0.1.0",
+  "summary": "A short description of lc_syntax_highlight.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Yuki Urata/lc_syntax_highlight",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yuki Urata": "minaduki.supernova@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Yuki Urata/lc_syntax_highlight.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "lc_syntax_highlight/Classes/**/*"
+}
